@@ -20,7 +20,7 @@ Aqui estão alguns dos trabalhos que desenvolvi:
 ### **Clone Instante**  
 🎯 **Tecnologias**: HTML, CSS, JavaScript  
 📹 **Preview**:  
-![Clone Instante](./MediaLibrary/clone_instante.jpg)  
+![Clone Instante](.![Image](https://github.com/user-attachments/assets/ffd2316a-920d-4c47-9d5b-0048868017d8))  
 🔗 [Visualizar Projeto](./MediaLibrary/G-Clone-Instante.mp4)
 
 ---
