@@ -22,6 +22,7 @@ Aqui estão alguns dos trabalhos que desenvolvi:
 📹 **Preview**:  
 
 <img src="https://github.com/user-attachments/assets/ffd2316a-920d-4c47-9d5b-0048868017d8" alt="Exemplo de imagem" width="300px" height="300px">
+
 🔗 [Visualizar Projeto](https://serene-llama-g-instant.netlify.app/)
 
 ---
@@ -30,6 +31,7 @@ Aqui estão alguns dos trabalhos que desenvolvi:
 🎯 **Tecnologias**: HTML, CSS, JavaScript  
 📹 **Preview**:  
 <img src="https://github.com/user-attachments/assets/15faec79-802a-4552-81b0-a209dd696476" alt="Exemplo de imagem" width="300px" height="300px">  
+
 🔗 [Visualizar Projeto](./MediaLibrary/Site-para-Escola-G-Tch.mp4)
 
 ---
@@ -50,7 +52,7 @@ Sou Pedro Galvão, desenvolvedor criativo e dedicado a criar soluções que comb
 ---
 
 ## 📬 Contato
-🔗 **WhatsApp**: [Clique aqui](https://wa.me/41991873057)  
+  
 🔗 **Instagram**: [@pedrosouza2277](https://www.instagram.com/pedrosouza2277)  
 🔗 **LinkedIn**: [Pedro Galvão](https://www.linkedin.com/in/pedro-galvao-dev/)  
 🔗 **GitHub**: [galvaomaisti](https://github.com/galvaomaisti)  
