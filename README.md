@@ -12,6 +12,7 @@ Aqui estão alguns dos trabalhos que desenvolvi:
 ### **Site de Serviços - Irmãos Mario Bross**
 🎯 **Tecnologias**: HTML, CSS, JavaScript  
 📹 **Preview**:  
+
 <img src="https://github.com/user-attachments/assets/32fa5ef9-bc38-400a-8acb-d937142ab4e5" alt="Exemplo de imagem" width="30px" height="30px">  
 🔗 [Visualizar Projeto](./MediaLibrary/Site-de-Serviços-Irmãos-Mario-Bross.mp4)
 ---
