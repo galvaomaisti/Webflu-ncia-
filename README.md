@@ -12,7 +12,7 @@ Aqui estão alguns dos trabalhos que desenvolvi:
 ### **Site de Serviços - Irmãos Mario Bross**  
 🎯 **Tecnologias**: HTML, CSS, JavaScript  
 📹 **Preview**:  
-![Site de Serviços](./MediaLibrary/servicos_mario_bross.jpg)  
+![Site de Serviços](![Image](https://github.com/user-attachments/assets/32fa5ef9-bc38-400a-8acb-d937142ab4e5)  
 🔗 [Visualizar Projeto](./MediaLibrary/Site-de-Serviços-Irmãos-Mario-Bross.mp4)
 
 ---
@@ -20,15 +20,15 @@ Aqui estão alguns dos trabalhos que desenvolvi:
 ### **Clone Instante**  
 🎯 **Tecnologias**: HTML, CSS, JavaScript  
 📹 **Preview**:  
-![Clone Instante](.![Image](https://github.com/user-attachments/assets/ffd2316a-920d-4c47-9d5b-0048868017d8))  
-🔗 [Visualizar Projeto](./MediaLibrary/G-Clone-Instante.mp4)
+![Clone Instante](.![Image](https://github.com/user-attachments/assets/ffd2316a-920d-4c47-9d5b-0048868017d8)
+🔗 [Visualizar Projeto](https://serene-llama-g-instant.netlify.app/)
 
 ---
 
 ### **Site para Escola - GTch**  
 🎯 **Tecnologias**: HTML, CSS, JavaScript  
 📹 **Preview**:  
-![Site para Escola](./MediaLibrary/escola_gtch.jpg)  
+![Site para Escola](![Image](https://github.com/user-attachments/assets/15faec79-802a-4552-81b0-a209dd696476)  
 🔗 [Visualizar Projeto](./MediaLibrary/Site-para-Escola-G-Tch.mp4)
 
 ---
