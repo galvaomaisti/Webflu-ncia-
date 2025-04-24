@@ -1,4 +1,4 @@
-# Webflu-ncia-
+# Webfluencia
 
 # 🌟 Portfólio | Pedro Galvão
 
@@ -13,14 +13,15 @@ Aqui estão alguns dos trabalhos que desenvolvi:
 🎯 **Tecnologias**: HTML, CSS, JavaScript  
 📹 **Preview**:  
 
-<img src="https://github.com/user-attachments/assets/32fa5ef9-bc38-400a-8acb-d937142ab4e5" alt="Exemplo de imagem" width="30px" height="30px">  
+<img src="https://github.com/user-attachments/assets/32fa5ef9-bc38-400a-8acb-d937142ab4e5" alt="Exemplo de imagem" width="300px" height="300px">  
 🔗 [Visualizar Projeto](./MediaLibrary/Site-de-Serviços-Irmãos-Mario-Bross.mp4)
 ---
 
 ### **Clone Instante**  
 🎯 **Tecnologias**: HTML, CSS, JavaScript  
 📹 **Preview**:  
-![Exemplo de imagem](https://github.com/user-attachments/assets/ffd2316a-920d-4c47-9d5b-0048868017d8)
+
+<img src="https://github.com/user-attachments/assets/ffd2316a-920d-4c47-9d5b-0048868017d8" alt="Exemplo de imagem" width="300px" height="300px">
 🔗 [Visualizar Projeto](https://serene-llama-g-instant.netlify.app/)
 
 ---
@@ -28,7 +29,7 @@ Aqui estão alguns dos trabalhos que desenvolvi:
 ### **Site para Escola - GTch**  
 🎯 **Tecnologias**: HTML, CSS, JavaScript  
 📹 **Preview**:  
-![Exemplo de imagem](https://github.com/user-attachments/assets/15faec79-802a-4552-81b0-a209dd696476)  
+<img src="https://github.com/user-attachments/assets/15faec79-802a-4552-81b0-a209dd696476" alt="Exemplo de imagem" width="300px" height="300px">  
 🔗 [Visualizar Projeto](./MediaLibrary/Site-para-Escola-G-Tch.mp4)
 
 ---
