@@ -1,5 +1,5 @@
 # Webflu-ncia-
-Site do meu portifólio
+
 # 🌟 Portfólio | Pedro Galvão
 
 Bem-vindo ao meu portfólio! Sou um desenvolvedor web apaixonado por tecnologia e inovação, focado em criar experiências digitais excepcionais e interfaces intuitivas. Confira abaixo alguns dos meus projetos e saiba mais sobre mim! 😃
@@ -9,12 +9,11 @@ Bem-vindo ao meu portfólio! Sou um desenvolvedor web apaixonado por tecnologia 
 ## 🚀 Projetos
 Aqui estão alguns dos trabalhos que desenvolvi:
 
-### **Site de Serviços - Irmãos Mario Bross**  
+### **Site de Serviços - Irmãos Mario Bross**
 🎯 **Tecnologias**: HTML, CSS, JavaScript  
 📹 **Preview**:  
-![Exemplo de imagem](https://github.com/user-attachments/assets/32fa5ef9-bc38-400a-8acb-d937142ab4e5)  
+<img src="https://github.com/user-attachments/assets/32fa5ef9-bc38-400a-8acb-d937142ab4e5" alt="Exemplo de imagem" width="30px" height="30px">  
 🔗 [Visualizar Projeto](./MediaLibrary/Site-de-Serviços-Irmãos-Mario-Bross.mp4)
-
 ---
 
 ### **Clone Instante**  
