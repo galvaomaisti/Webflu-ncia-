@@ -17,10 +17,26 @@ body {
     padding: 100px 0;
     margin-left: 30px;
     text-align: justify;
+    align-items: center;
+    justify-content: center;
 }
-
+.conteudo-secao {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+}
+.titulo-secao {
+    font-size: 36px;
+    color: #007BFF;
+    margin-bottom: 20px;
+    text-transform: uppercase;
+    font-weight: bold;
+}
 /* Estilo do Cabeçalho */
 header {
+    margin-top: 3px;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -242,6 +258,22 @@ header ul li a.ativo {
     opacity: 1; /* Torna visível */
 }
 
+.botao-projeto {
+  background-color: #007BFF;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  text-decoration: none;
+  font-size: 16px;
+  display: inline-block;
+  margin-top: 10px;
+}
+
+.botao-projeto:hover {
+  background-color: #0056b3;
+}
 
 /* Responsividade */
 @media (max-width: 568px) {
